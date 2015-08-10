@@ -1,22 +1,22 @@
 {
-  "name": "anm",
-  "version": "1.0.0",
-  "description": "Simple AngularJs, NodeJs and MongoDb app",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ovidiubularda/anm.git"
-  },
-  "keywords": [
-    "angularjs"
-  ],
-  "author": "Ovidiu Bularda",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ovidiubularda/anm/issues"
-  },
-  "homepage": "https://github.com/ovidiubularda/anm#readme"
+    "name": "anm",
+    "version": "1.0.0",
+    "description": "Simple AngularJs, NodeJs and MongoDb app",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ovidiubularda/anm.git"
+    },
+    "keywords": [
+        "angularjs"
+    ],
+    "author": "Ovidiu Bularda",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ovidiubularda/anm/issues"
+    },
+    "homepage": "https://github.com/ovidiubularda/anm#readme"
 }
