@@ -20,3 +20,9 @@ OPTIONAL BONUS POINTS:
 breeze.
 * Persist the product/comment data to an actual database. (You could just store the data in memory for this
 exercise)
+
+### How to run the app ###
+
+1. Navigate to the anm folder
+2. run in console node .
+
