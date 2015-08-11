@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "anm-db": {
+    "host": "ds055852.mongolab.com",
+    "port": 55852,
+    "database": "anm",
+    "username": "dbuser",
+    "password": "password",
+    "name": "anm-db",
+    "connector": "mongodb"
+  }
+}

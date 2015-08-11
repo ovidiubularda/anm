@@ -1,0 +1,29 @@
+{
+    "name": "anm",
+    "version": "1.0.0",
+    "homepage": "https://github.com/ovidiubularda/anm",
+    "authors": [
+        "Ovidiu Bularda <ovi.b.1988@gmail.com>"
+    ],
+    "description": "AngularJS client",
+    "main": "index.html",
+    "keywords": [
+        "angularjs"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "bootstrap": "~3.3.5",
+        "lodash": "~3.10.1",
+        "angularjs": "~1.4.3",
+        "angular-ui-router": "~0.2.13",
+        "angular-loading-bar": "~0.8.0",
+        "angular-mocks": "~1.4.3"
+    }
+}
